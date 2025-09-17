@@ -50,5 +50,10 @@ public class FastAutomation {
 
 		System.out.println("Your Final Internet Speed is - " + speedValueElement.getText() + " " + speedUnitElement.getText());
 		
+		if(speedUnitElement.isDisplayed())
+		{
+			driver.quit();
+		}
+		
 	}
 }
