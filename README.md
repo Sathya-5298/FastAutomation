@@ -32,13 +32,13 @@ This project uses **Selenium WebDriver (Java)** to launch [Fast.com](https://fas
 
 ## 💡 Example Output
 
-0 Mbps
-0 Mbps
-15 Mbps
-25 Mbps
-25 Mbps
-32 Mbps
-37 Mbps
-39 Mbps
+0 Mbps   
+0 Mbps   
+15 Mbps    
+25 Mbps    
+25 Mbps    
+32 Mbps     
+37 Mbps     
+39 Mbps      
 Your Final Internet Speed is - 39 Mbps
 
